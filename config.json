@@ -1,7 +1,7 @@
 {
     "configVersion": 2,
     "appIdentifier": "myapp.centralmenuplanning",
-    "appName": "Central Menu Planning",
+    "appName": "Medirest",
     "bundleName": {
         "main": "CentralMenuPlan",
         "dev": "CentralMenuPDev"
@@ -67,20 +67,8 @@
             "required": true
         },
         {
-            "title": "Read External Storage",
-            "name": "android.permission.READ_EXTERNAL_STORAGE",
-            "platform": "android",
-            "required": true
-        },
-        {
             "title": "System Alert Window",
             "name": "android.permission.SYSTEM_ALERT_WINDOW",
-            "platform": "android",
-            "required": true
-        },
-        {
-            "title": "Write External Storage",
-            "name": "android.permission.WRITE_EXTERNAL_STORAGE",
             "platform": "android",
             "required": true
         },
@@ -135,6 +123,6 @@
         }
     },
     "appVersion": "1.0.0",
-    "buildNumber": 55,
+    "buildNumber": 56,
     "runtimeUrl": "https://cmp-staging.apps.ap-2a.mendixcloud.com/"
 }
