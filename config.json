@@ -123,6 +123,6 @@
         }
     },
     "appVersion": "1.0.0",
-    "buildNumber": 64,
+    "buildNumber": 65,
     "runtimeUrl": "https://cmp-staging.apps.ap-2a.mendixcloud.com/"
 }
